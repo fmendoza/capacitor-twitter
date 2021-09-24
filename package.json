@@ -1,5 +1,5 @@
 {
-  "name": "@capacitor-community/twitter",
+  "name": "@fmendoza/capacitor-twitter",
   "version": "1.0.1",
   "description": "Enable TwitterKit features for Capacitor",
   "main": "dist/esm/index.js",
@@ -49,9 +49,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/capacitor-community/twitter"
+    "url": "https://github.com/fmendoza/capacitor-twitter"
   },
   "bugs": {
-    "url": "https://github.com/capacitor-community/twitter/issues"
+    "url": "https://github.com/fmendoza/capacitor-twitter/issues"
   }
 }
