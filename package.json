@@ -1,6 +1,6 @@
 {
   "name": "@fmendoza/capacitor-twitter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Enable TwitterKit features for Capacitor",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -15,7 +15,7 @@
     "contributors:add": "all-contributors add",
     "contributors:gen": "all-contributors generate"
   },
-  "author": "Stewan Silva",
+  "author": "Fernando Mendoza",
   "license": "MIT",
   "dependencies": {
     "@capacitor/core": "^3.2.3"
